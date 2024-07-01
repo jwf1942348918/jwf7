@@ -1,0 +1,24 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "author": "Jane Doe",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwf1942348918/jwf7.git"
+  },
+  "description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/\r \"# jwf1\"",
+  "bugs": {
+    "url": "https://github.com/jwf1942348918/jwf7/issues"
+  },
+  "homepage": "https://github.com/jwf1942348918/jwf7#readme",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "keywords": [],
+  "license": "ISC"
+}
